@@ -81,18 +81,25 @@ The interactive dashboard includes the following views, all accessible via the *
 
 - 🏠 **Home View**
  ![Home View](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0001.jpg)
+
 - 🧾 **Finance View**
    ![finance_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0002.jpg)
 - 📈 **Sales View**
+- 
   ![sales_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/f138337654a5085a11688fe7af10166f73f468f6/bi%20360%20new_page-0003.jpg)
+  
 - 🎯 **Marketing View**
    ![marketing_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0004.jpg)
+  
 - 🛠️ **Supply Chain View**
    ![supply chain_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0005.jpg)
+  
 - 👑 **Executive View**
    ![executive_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0006.jpg)
+  
 - ℹ️ **Info Page**
    ![info page_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/952c4f58360f0bb7687c17b886acd317d8e2ebc2/Untitled.png)
+  
 - 🆘 **Support Page**
  ![support page_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/952c4f58360f0bb7687c17b886acd317d8e2ebc2/support.jpg)
 
