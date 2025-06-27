@@ -79,8 +79,8 @@ Effective data modeling is the **foundation** of reliable dashboards. We followe
 
 The interactive dashboard includes the following views, accessible via a homepage:
 
-- 🧾 **Finance View**  
-- 📈 **Sales View**  
+- 🧾 **Finance View**
+      ![Finance View]([image_url](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/b9db42d497c4665d064e4b6978aec28193f35c10/bi%20360%20new_page-0001.jpg))
 - 🎯 **Marketing View**  
 - 🛠️ **Supply Chain View**  
 - 👑 **Executive Summary**  
