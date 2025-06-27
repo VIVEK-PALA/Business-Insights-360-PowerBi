@@ -79,13 +79,17 @@ Effective data modeling is the **foundation** of reliable dashboards. We followe
 
 The interactive dashboard includes the following views, accessible via a homepage:
 
-- 🧾 **Finance View**
-- 
-     ![Finance View](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/raw/b9db42d497c4665d064e4b6978aec28193f35c10/bi%20360%20new_page-0001.jpg)
+- 🧾 **Home View**
 
+     ![Home view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/raw/b9db42d497c4665d064e4b6978aec28193f35c10/bi%20360%20new_page-0001.jpg)
+
+- 🧾 **Finance View**
+ ![Finance View](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/f138337654a5085a11688fe7af10166f73f468f6/bi%20360%20new_page-0002.jpg)
+
+- 🎯 **Marketing View**
+  ![Marketing View](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/f138337654a5085a11688fe7af10166f73f468f6/bi%20360%20new_page-0003.jpg)
+- 🛠️ **Supply Chain View**
   
-- 🎯 **Marketing View**  
-- 🛠️ **Supply Chain View**  
 - 👑 **Executive Summary**  
 - 📦 **Product View**  
 - 🆘 **Support Page**
