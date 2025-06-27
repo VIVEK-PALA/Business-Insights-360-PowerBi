@@ -92,9 +92,9 @@ The interactive dashboard includes the following views, all accessible via the *
 - 👑 **Executive View**
    ![executive_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/2655e46d375548525c3793b33e426793c7d7e1c5/bi%20360%20new_page-0006.jpg)
 - ℹ️ **Info Page**
-   ![info page_view]()
+   ![info page_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/952c4f58360f0bb7687c17b886acd317d8e2ebc2/Untitled.png)
 - 🆘 **Support Page**
- ![support page_view]()
+ ![support page_view](https://github.com/VIVEK-PALA/Business-Insights-360-PowerBi/blob/952c4f58360f0bb7687c17b886acd317d8e2ebc2/support.jpg)
 
 Each view includes dynamic visuals, KPIs, filters, and narrative insights.
 
@@ -111,19 +111,13 @@ Each view includes dynamic visuals, KPIs, filters, and narrative insights.
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
-> *(Add a screenshot or GIF of your dashboard here to make it visually engaging)*
-
 ---
 
 ## 📩 Contact
 
-Made with 💡 by **Your Name**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)
+Made with 💡 by **Vivek M**  
+📧 vivekbhaskarpala@gmail.com  
+🔗 [LinkedIn](linkedin.com/in/vivekmvivu2109)
 
 ---
 
