@@ -124,7 +124,7 @@ Each view includes dynamic visuals, KPIs, filters, and narrative insights.
 
 Made with 💡 by **Vivek M**  
 📧 vivekbhaskarpala@gmail.com  
-🔗 [LinkedIn](linkedin.com/in/vivekmvivu2109)
+🔗 [LinkedIn](https://www.linkedin.com/in/vivekmvivu2109/)
 
 ---
 
