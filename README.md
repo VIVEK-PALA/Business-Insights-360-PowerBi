@@ -117,6 +117,13 @@ Each view includes dynamic visuals, KPIs, filters, and narrative insights.
 - Improve cross-team collaboration using Power BI Services
 
 ---
+## 🌐 Live Dashboard – Power BI Service
+
+🎯 Explore the interactive Power BI dashboard hosted online:
+
+👉 [Click here to view the report](<iframe title=" 36Atliq 360 – Business Intelligence Dashboard " width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWVhMDFiMWQtMGFlZi00YzRiLWEwMWUtMTVhM2YxZDM2NjA4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+
+> ⚠️ *Note: This dashboard is shared publicly using Power BI's "Publish to Web" feature. It may not display private or confidential data.*
 
 ---
 
